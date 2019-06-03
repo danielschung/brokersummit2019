@@ -41,14 +41,15 @@ div.clear {
 //header------------------------------------------------
 header {
 	background-image:url('../../media/header.jpg');
+	background-position:40% 0%;
 	background-repeat:no-repeat;
-	background-size:cover;
-	height:60.0625rem;
+	// background-size:cover;
+	height:54.0625rem;
 	width:100%;
 
 	div.container {
 		margin:0 auto;
-		padding-top:6.25rem;
+		padding-top:3.87rem;
 		text-align:center;
 		max-width:54.78571429rem;
 		width:90%;
@@ -98,7 +99,7 @@ main {
 	text-align:center;
 
 	div.paper {
-		background-image:url('../../media/paper.png');
+		background-image:url('../../media/paper.jpg');
 		background-size:cover;
 		height:auto;
 		margin:0 auto;
